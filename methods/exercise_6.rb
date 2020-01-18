@@ -1,0 +1,1 @@
+# The error message "ArgumentError: wrong number of arguments (1 for 2)...." tells me that a method called 'calculate_product' that takes 2 arguments was called with only one.
