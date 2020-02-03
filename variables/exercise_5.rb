@@ -13,4 +13,4 @@
 # end
 # puts x
 
-# x will be undefined because x is not available outside the block scope. (even though it is set to a copy of y, which is available)
+# x will be undefined because x is not available outside the block scope.
